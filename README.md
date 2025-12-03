@@ -1,6 +1,6 @@
 # COSS-SDGs-Competition
 2025 COSS SDGs 기반 사회문제 해결 경진대회 대상(1위) 수상작  
-<img src="https://github.com/user-attachments/assets/bb5ae1d2-7489-40a9-97b8-ea9615fc7d02" width="500">
+<img src="https://github.com/user-attachments/assets/bb5ae1d2-7489-40a9-97b8-ea9615fc7d02" width="400">
 
 <br>
 
