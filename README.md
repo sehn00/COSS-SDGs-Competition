@@ -30,7 +30,7 @@ ESP32 RSSI 기반 거리 판단 + 장치 내장 LED/진동/LCD 표시를 통해 
 ## 🛠 기술 스택
 
 - **Hardware**: ESP32-C3, 진동모터, LCD, 3D 프린팅 하우징  
-- **Software**: C/C++ (Arduino, ESP32), ESP-NOW 기반 브로드캐스트 통신, RSSI 평균/임계값 기반 거리 판단 로직
+- **Software**: C/C++ (Arduino, ESP32), ESP-NOW 기반 브로드캐스트 통신, RSSI 평균/임계값 기반 거리 판단 로직  
 - **Design/Simulation**: Fusion360 모델링 및 구조해석  
 
 ---
