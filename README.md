@@ -12,6 +12,11 @@ ESP32 RSSI 기반 거리 판단 + 장치 내장 LED/진동/LCD 표시를 통해 
 
 ---
 
+## 🎥 Demo Video
+https://youtube.com/watch?v=965nC90RXDw
+
+---
+
 ## 🚀 프로젝트 개요
 
 - **근접 감지 자동 인식**  
