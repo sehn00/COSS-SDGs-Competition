@@ -1,5 +1,5 @@
 # COSS-SDGs-Competition
-2025 COSS SDGs 기반 사회문제 해결 경진대회 대상 수상작 (중앙대학교)
+2025 COSS SDGs 기반 사회문제 해결 경진대회 대상 수상작 (중앙대학교)  
 
 ## 비접촉형 교통약자 배려 시스템 (Non-Contact Priority System)
 *COSS SDGs 사회문제 해결 경진대회 — 대상(1위) 수상 프로젝트*
