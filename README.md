@@ -65,7 +65,7 @@ ESP32 RSSI 기반 거리 판단 + 장치 내장 LED/진동/LCD 표시를 통해 
 
 ## 📜 License
 
-This repository is public for portfolio and review purposes only.
+This repository is available for reference and review.
 
 **Copyright (c) 2025. All rights reserved.**  
 Copying, modification, redistribution, or reuse of the code or design in this project is **not permitted** without explicit permission from the author.
